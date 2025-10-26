@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "Assignment_0.C": "cpp",
+        "sum.C": "cpp",
+        "area_of-circle.C": "cpp",
+        "temp_conversion.C": "cpp",
+        "swap.C": "cpp",
+        "avg.C": "cpp",
+        "square_cube.C": "cpp",
+        "time_conversion.C": "cpp",
+        "perimeter.C": "cpp",
+        "area_of_triangle.C": "cpp",
+        "percentage.C": "cpp",
+        "Even_Odd.C": "cpp",
+        "Palindrome.C": "cpp",
+        "Leap_Year.C": "cpp",
+        "vowel_consonant.C": "cpp"
+    }
+}
